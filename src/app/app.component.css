@@ -1,0 +1,11 @@
+mat-card {
+    margin-bottom: 10px;
+}
+
+mat-slider, mat-form-field, button {
+    width: 100%;
+}
+mat-slider {
+    display: block;
+    margin: 0;
+}
